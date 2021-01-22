@@ -5,6 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=368573607&hide=html&layout=compact&theme=cobalt)](#)
 
-### repo
+### repos
 
 [![Verify_ISBN_Code](https://github-readme-stats.vercel.app/api/pin/?username=368573607&repo=Verify_ISBN_Code&theme=cobalt)](https://github.com/368573607/Verify_ISBN_Code)
