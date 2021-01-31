@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Red Sun</h1>
-<h3 align="center">368573607</h3>
+<h3 align="center">QQ: 368573607</h3>
 
 [![starts](https://github-readme-stats.vercel.app/api?username=368573607&hide=contribs,prs,stars&show_icons=true&show_icons=true&theme=cobalt)](https://368573607.github.io)
 
