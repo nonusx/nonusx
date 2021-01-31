@@ -48,4 +48,5 @@ Excuse me! I can't make it up...
 ### Remark
 
 Don't follow me!😥
-cao (If you not from China, You maybe can't know it meaning.)
+
+cao (If you not from China, You maybe can't know it meaning. If I said f\*\*k may make it easier for you to understand)
