@@ -41,7 +41,7 @@
 
 Excuse me! I can't make it up...
 
-### repos (just 氵water, a noob)
+### repositories (just 氵water, a noob)
 
 [![Verify_ISBN_Code](https://github-readme-stats.vercel.app/api/pin/?username=368573607&repo=Verify_ISBN_Code&theme=cobalt)](https://github.com/368573607/Verify_ISBN_Code)
 
@@ -50,3 +50,7 @@ Excuse me! I can't make it up...
 Don't follow me!😥
 
 cao (If you not from China, You maybe can't know it meaning. If I said f\*\*k may make it easier for you to understand)
+
+NO NO NO MISUNDERSTAND ME!
+
+I just think to say "fork"...
