@@ -49,8 +49,8 @@ Excuse me! I can't make it up...
 
 Don't follow me!😥
 
-cao (If you not from China, You maybe can't know it meaning. If I said f\*\*k may make it easier for you to understand)
+cao (If you not from China, You maybe can't know it meaning. If I said ~~f\*\*k~~ may make it easier for you to understand)
 
-NO NO NO MISUNDERSTAND ME!
+**NO NO NO MISUNDERSTAND ME!**
 
-I just think to say "fork"...
+**I just think to say "fork"...**
