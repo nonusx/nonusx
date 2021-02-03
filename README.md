@@ -26,9 +26,9 @@
 * C **&** C++ **(know a little)**
 * Java **(know a little)**
 * Python
-* ~~Scratch~~😥😇
+* ~~Scratch😥😇~~
 
-# Follow stack
+# Follow
 
 * Bootstrap
 * React.js
