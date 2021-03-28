@@ -34,7 +34,3 @@
 * React.js
 * Vue.js
 * Typescript
-
-# 便利服务（服务器资源有限，请勿滥用，否则将有可能关闭服务，请相互监督）
-
-* [github的反向代理](http://47.108.77.223/llk/scratch-gui)
