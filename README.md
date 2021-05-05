@@ -1,5 +1,5 @@
 # Hi there👋
-I'm a six garder student, I'm 12 years old. I like coding. I'm learning JavaScript, Python, Java, C and C++. You can find me on my [website](https://47.108.77.223).
+I'm a six garder student, I'm 12 years old. I like coding. I'm learning JavaScript, Python, Java, C and C++. You can find me on my [website](http://47.108.77.223).
 
 **:)**
 
